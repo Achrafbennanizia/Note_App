@@ -1,0 +1,14 @@
+/Users/achraf/pro/C#_Net/Note_App/bin/Debug/net10.0/Note_App
+/Users/achraf/pro/C#_Net/Note_App/bin/Debug/net10.0/Note_App.deps.json
+/Users/achraf/pro/C#_Net/Note_App/bin/Debug/net10.0/Note_App.runtimeconfig.json
+/Users/achraf/pro/C#_Net/Note_App/bin/Debug/net10.0/Note_App.dll
+/Users/achraf/pro/C#_Net/Note_App/bin/Debug/net10.0/Note_App.pdb
+/Users/achraf/pro/C#_Net/Note_App/obj/Debug/net10.0/Note_App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/achraf/pro/C#_Net/Note_App/obj/Debug/net10.0/Note_App.AssemblyInfoInputs.cache
+/Users/achraf/pro/C#_Net/Note_App/obj/Debug/net10.0/Note_App.AssemblyInfo.cs
+/Users/achraf/pro/C#_Net/Note_App/obj/Debug/net10.0/Note_App.csproj.CoreCompileInputs.cache
+/Users/achraf/pro/C#_Net/Note_App/obj/Debug/net10.0/Note_App.dll
+/Users/achraf/pro/C#_Net/Note_App/obj/Debug/net10.0/refint/Note_App.dll
+/Users/achraf/pro/C#_Net/Note_App/obj/Debug/net10.0/Note_App.pdb
+/Users/achraf/pro/C#_Net/Note_App/obj/Debug/net10.0/Note_App.genruntimeconfig.cache
+/Users/achraf/pro/C#_Net/Note_App/obj/Debug/net10.0/ref/Note_App.dll
